@@ -1,2 +1,0 @@
-# greencat
-Greencat Test Project
